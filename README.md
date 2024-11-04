@@ -60,7 +60,8 @@ I will run the grass node on your behalf because many of you guys said you cant 
 - Python (install Python By - https://www.python.org/downloads/ [windows/mac]) or Ubuntu Server [`sudo apt install python3`]
 - VPS Server ! You can get Via AWS free Tier or Google Free tier or any online for just ~ 2-5$ per month
 - Proxy Server - Buy Only ISP Residential Proxies to Earn $GRASS else you will earn 0% on data Centers / Free Cheap proxies (Best proxy providers are)
-- Proxies.fo -  https://app.proxies.fo/signup?referral=662d5a3a775a945a8de790ba [Buy Only 1GB Plan Enough for 1-6 months and you get Unlimited Accounts or proxies]
+- Proxies.fo -  [https://app.proxies.fo/signup?referral=662d5a3a775a945a8de790ba](https://app.proxies.fo/signup?referral=662d5a3a775a945a8de790ba) [Buy Only 1GB Plan Enough for 1-6 months and you get Unlimited Accounts or proxies]
+- Light Node (for VPS) - [https://www.lightnode.com/?inviteCode=OUMJXM&promoteWay=LINK](https://www.lightnode.com/?inviteCode=OUMJXM&promoteWay=LINK)
 - Get User ID from Grass Dashboard
   
 ## SETPS TO RUN THE CODE -
