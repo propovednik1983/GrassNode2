@@ -7,10 +7,15 @@ Automate Grass Node mining with this Python based script for VPS, managing multi
 I will run the grass node on your behalf because many of you guys said you cant run the server or vps or proxies unable to run script or vps cost is very high for single user thats why i bought the VPS with high ram config and 100GB expensive Plan so it could be cost effective for me to RUN nodes for community !"
 
 -> You guys Buying proxies for 4$ and i buyed bulk in 2$ !!
+
 -> Reasons why You cant EARN more is because you are not getting how to run NODE so non DEV or non - TECH people COMMUNITY NODE IS BEST OPTION WE HAVE Around ~120 PEOPLE as of now in our community Node !! Earning Over 120M points DAILY ~~~~~~ !!
+
 -> Also many people dont run in VPS then run in own PC where there can be loss of bandwidth ! and you need 24/7 active pc with high speed internet so for that a VPS is best !
+
 -> Solution Just send me a dm  usein Discord and send yourr ID i will add The Grass points directly to Your Grass account!!
+
 -> **PRICE PER MILLION IS JUST 6 USD** less than the price that you have to pay to run node by own !! Along side No hassel of Monitoring or managing the servers ! NO additional VPS cost !
+
 -> CONTACT : ` 0xphatom ` on Discord  https://discord.com/users/979641024215416842
 
 # Note - BASED ON STAGE 1 AIRDROP = 1M POINTS == ON AVG 45 TOKENS ~~>
