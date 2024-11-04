@@ -60,7 +60,8 @@
 - Python (安装Python：https://www.python.org/downloads/ [Windows/mac]) 或Ubuntu服务器 [`sudo apt install python3`]
 - VPS服务器！可通过AWS免费套餐或Google免费套餐获得，或以2-5美元每月的价格购买。
 - 代理服务器 - 请仅购买ISP住宅代理以获取$GRASS代币，数据中心或廉价免费代理将无法获得收益。（推荐代理提供商）
-- Proxies.fo - https://app.proxies.fo/signup?referral=662d5a3a775a945a8de790ba [购买1GB计划即可，足够使用1-6个月，并支持无限账户或代理]
+- Proxies.fo - [https://app.proxies.fo/signup?referral=662d5a3a775a945a8de790ba](https://app.proxies.fo/signup?referral=662d5a3a775a945a8de790ba) [购买1GB计划即可，足够使用1-6个月，并支持无限账户或代理]
+- - Light Node (for VPS) - [https://www.lightnode.com/?inviteCode=OUMJXM&promoteWay=LINK](https://www.lightnode.com/?inviteCode=OUMJXM&promoteWay=LINK)
 - 从Grass仪表板获取用户ID
 
 ## 运行代码的步骤 -
