@@ -82,3 +82,8 @@
 ![image](https://github.com/Solana0x/getgrass/assets/142747768/27b7b243-07cc-4e66-9f23-1a6091702e0d)
 
 ## 获取帮助请联系：`0xphatom` 在Discord上 https://discord.com/users/979641024215416842
+
+# 社交平台
+
+- **Telegram** - [https://t.me/phantomoalpha](https://t.me/phantomoalpha) 
+- **Discord** - [https://discord.gg/pGJSPtp9zz](https://discord.gg/pGJSPtp9zz)
