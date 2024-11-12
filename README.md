@@ -80,8 +80,6 @@ Before running the script, ensure you have Python installed on your machine. The
 
 **Note** - ~2GB Spent on Proxies = 45 $Grass tokens = 90$ ~ As per Past trends and Old Stage 1 USERS.
 
-![image](https://github.com/Solana0x/getgrass/assets/142747768/27b7b243-07cc-4e66-9f23-1a6091702e0d)
-
 ## FOR ANY KIND OF HELP CONTACT : ` 0xphatom ` on Discord  https://discord.com/users/979641024215416842
 
 # SOCIALS -
