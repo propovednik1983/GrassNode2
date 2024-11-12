@@ -80,7 +80,6 @@
 
 **注意** - ~2GB代理消耗= 45 $Grass代币 = 约90美元（根据以往趋势和第一阶段用户的数据）。
 
-![image](https://github.com/Solana0x/getgrass/assets/142747768/27b7b243-07cc-4e66-9f23-1a6091702e0d)
 
 ## 获取帮助请联系：`0xphatom` 在Discord上 https://discord.com/users/979641024215416842
 
